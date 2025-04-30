@@ -16,7 +16,7 @@ This project is a real-time posture detection system that uses a webcam feed and
 - Webcam
 
 ## Dataset Used
-Used [posture-recognition]([https://example.com](https://www.kaggle.com/datasets/sahasradityathyadi/posture-recognition)) dataset from Kaggle
+Used [posture-recognition](https://www.kaggle.com/datasets/sahasradityathyadi/posture-recognition) dataset from Kaggle
 
 ### Python Dependencies
 
