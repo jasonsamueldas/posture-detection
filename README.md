@@ -77,6 +77,4 @@ Bad posture time: 03:45 (26.2%)
 - This project assumes binary classification between "good" and "bad" posture.
 - For cross-platform sound support, replace `winsound.Beep()` with an alternative like `playsound`.
 
-## License
 
-MIT License
