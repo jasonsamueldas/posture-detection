@@ -15,9 +15,6 @@ This project is a real-time posture detection system that uses a webcam feed and
 - Windows OS (due to `winsound` usage for audio)
 - Webcam
 
-## Dataset Used
-- Used [posture-recognition](https://www.kaggle.com/datasets/sahasradityathyadi/posture-recognition) dataset from Kaggle
-
 ### Python Dependencies
 
 Install required packages with pip:
@@ -25,6 +22,9 @@ Install required packages with pip:
 ```bash
 pip install numpy opencv-python onnxruntime
 ```
+
+## Dataset Used
+- Used [posture-recognition](https://www.kaggle.com/datasets/sahasradityathyadi/posture-recognition) dataset from Kaggle
 
 ## Setup
 
