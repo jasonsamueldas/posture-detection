@@ -52,8 +52,6 @@ To train the posture detection model from scratch using NVIDIA Jetson Nano and J
 git clone --recursive https://github.com/dusty-nv/jetson-inference
 ```
 
-> ⚠️ This may take 10–15 minutes depending on your internet speed.
-
 ---
 
 ### 2. Run the Docker Container
@@ -89,8 +87,6 @@ Start training using:
 ```bash
 python3 train.py --model-dir=models/Posture --batch-size=4 --workers=1 --epochs=100 data/Posture
 ```
-
-> ⚠️ Training on Jetson Nano may take 12–14 hours. Avoid touching the device while it’s hot.
 
 ---
 
